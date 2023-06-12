@@ -90,5 +90,8 @@ with ui.element("div").classes('w-full').style(
      for row in rows:
           print(row)
      ui.table(columns=columns, rows=rows, row_key='name')
+     """
+     data tables from nicegui {i am commiting from my laptop to work from my pc}
+     """
 
 ui.run()
